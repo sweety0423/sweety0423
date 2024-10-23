@@ -20,7 +20,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 
 ## Projects
-
+- [blinkit Analysis](https://github.com/sweety0423/Blinkit_Dashbaord): An analysis project providing comprehensive insights of Blinkit’s Sales performance , customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPI’s and visualization
+in excel. This enabled real-time insights for data-driven decision-making
 - [EDA on job and salary of Data domain](https://github.com/sweety0423/Internship-VigorCouncil-DataAnalytics/blob/main/project01/project%2001.ipynb): An analysis project providing comprehensive insights on Job and salary in the data domain.
 - [blinkit Analysis](https://github.com/sweety0423/Blinkit_Dashbaord/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx): Analyzed data to optimize operations and improve the business metrics.
 - [Excel/Power BI Dashboards](https://github.com/sweety0423/Internship-VigorCouncil-DataAnalytics/blob/main/project%2002/Project02_FINAL_REPORT_SWEETY.pdf): Analyzed different datasets related to sales, healthcare , banking and other to understand data through better visualization.
